@@ -1,0 +1,8 @@
+*.o
+build/*
+main
+bin/*
+
+.*.swp
+.*.swo
+*.*~
